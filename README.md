@@ -1,4 +1,5 @@
 Project: Automated UI Testing for an E-Commerce Website
+
 Target website: To be selected (TBD)
 
 This folder contains the current project documentation. The target website has not been selected, so site-specific details—including page names, selectors, screenshots, database access, and API availability—remain unconfirmed.
